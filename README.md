@@ -125,6 +125,7 @@ Interview preparation
 Logic-building practice
 
 🚀 Future Improvements
+
 Function-based solutions
 
 User input support
